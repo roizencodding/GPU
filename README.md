@@ -8,4 +8,3 @@ Bash script for installing drivers for GPU
 curl -sL "https://github.com/roizencodding/GPU/raw/refs/heads/main/GPU.sh" | bash
 ```
 - Press Enter
-- Enjoy
